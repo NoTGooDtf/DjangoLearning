@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     #own
     'polls.apps.PollsConfig',
     'frontpage.apps.FrontpageConfig',
+    'blogs.apps.BlogsConfig',
 ]
 
 MIDDLEWARE = [
